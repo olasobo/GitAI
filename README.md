@@ -182,7 +182,3 @@ If you encounter any issues or have questions:
 1. Check the [Issues](https://github.com/olasobo/GitAI/issues) page
 2. Create a new issue with detailed information
 3. Include your OS, Python version, and error messages
-
----
-
-**Made with ❤️ for developers who love automation**
